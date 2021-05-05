@@ -5,12 +5,12 @@
 [general]
 name=MGB Water Balance
 qgisMinimumVersion=3.0
-description=MGB Water Balance has the objective of carrying out the water balance of simulations carried out in the MGB. 
+description=MGB Water Balance plugin has the objective of carrying out the water balance of the MGB hydrological model simulations.
 version=0.1
 author=HGE-IPH
 email=rafinhamoz@gmail.com
 
-about=MGB Water Balance has the objective of carrying out the water balance of simulations carried out in the MGB. From the water balance it is possible to carry out basic checks regarding the simulation performed.
+about=MGB Water Balance plugin has the objective of carrying out the water balance of the MGB hydrological model simulations.From the water balance, it is possible to verify basic results such as rain, discarge and evapotranspiration in absolute and relative values for the simulated basin.
 
 tracker=http://bugs
 repository=http://repo
