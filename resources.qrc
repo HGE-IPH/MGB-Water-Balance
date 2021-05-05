@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/mgb_water_balance" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
